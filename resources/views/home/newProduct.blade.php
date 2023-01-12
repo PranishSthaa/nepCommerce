@@ -7,7 +7,7 @@
             <!-- section title -->
             <div class="col-md-12">
                 <div class="section-title">
-                    <h3 class="title">New Products</h3>
+                    <h3 class="title">All Products</h3>
                 </div>
             </div>
             <!-- /section title -->
@@ -24,10 +24,6 @@
                                     <div class="product">
                                         <div class="product-img">
                                             <img src="product/{{ $product->image }}" alt="">
-                                            <div class="product-label">
-                                                <span class="sale">-30%</span>
-                                                <span class="new">NEW</span>
-                                            </div>
                                         </div>
                                         <div class="product-body">
                                             <p class="product-category">{{ $product->category->category_name }}</p>

@@ -45,7 +45,7 @@
 		<!-- /NAVIGATION -->
 
 		<!-- SECTION -->
-		@include('home.hero')
+		{{-- @include('home.hero') --}}
 		<!-- /SECTION -->
 
 		<!-- SECTION -->
@@ -53,15 +53,15 @@
 		<!-- /SECTION -->
 
 		<!-- HOT DEAL SECTION -->
-		@include('home.hotDeal')
+		{{-- @include('home.hotDeal') --}}
 		<!-- /HOT DEAL SECTION -->
 
 		<!-- SECTION -->
-		@include('home.topSelling')
+		{{-- @include('home.topSelling') --}}
 		<!-- /SECTION -->
 
 		<!-- SECTION -->
-		@include('home.columnAd')
+		{{-- @include('home.columnAd') --}}
 		<!-- /SECTION -->
 
 		<!-- NEWSLETTER -->

@@ -5,20 +5,19 @@
         <div class="container">
             <!-- row -->
             <div class="row">
-                <div class="col-md-3 col-xs-6">
+                <div class="col-md-12 col-xs-12">
                     <div class="footer">
                         <h3 class="footer-title">About Us</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                            ut.</p>
+                        <p>Welcome to nepCommerce, your one-stop destination for all your shopping needs in Nepal!We're committed to supporting the Nepalese economy by promoting local brands and products.</p>
                         <ul class="footer-links">
-                            <li><a href="#"><i class="fa fa-map-marker"></i>1734 Stonecoal Road</a></li>
-                            <li><a href="#"><i class="fa fa-phone"></i>+021-95-51-84</a></li>
+                            <li><a href="#"><i class="fa fa-map-marker"></i>Kathmandu</a></li>
+                            <li><a href="#"><i class="fa fa-phone"></i>000000000</a></li>
                             <li><a href="#"><i class="fa fa-envelope-o"></i>email@email.com</a></li>
                         </ul>
                     </div>
                 </div>
 
-                <div class="col-md-3 col-xs-6">
+                {{-- <div class="col-md-3 col-xs-6">
                     <div class="footer">
                         <h3 class="footer-title">Categories</h3>
                         <ul class="footer-links">
@@ -57,7 +56,7 @@
                             <li><a href="#">Help</a></li>
                         </ul>
                     </div>
-                </div>
+                </div> --}}
             </div>
             <!-- /row -->
         </div>
@@ -69,7 +68,7 @@
     <div id="bottom-footer" class="section">
         <div class="container">
             <!-- row -->
-            <div class="row">
+            {{-- <div class="row">
                 <div class="col-md-12 text-center">
                     <ul class="footer-payments">
                         <li><a href="#"><i class="fa fa-cc-visa"></i></a></li>
@@ -90,7 +89,7 @@
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     </span>
                 </div>
-            </div>
+            </div> --}}
             <!-- /row -->
         </div>
         <!-- /container -->

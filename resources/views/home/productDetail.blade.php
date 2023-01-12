@@ -135,7 +135,7 @@
                 <!-- /Product details -->
 
                 <!-- Product tab -->
-                <div class="col-md-12">
+                {{-- <div class="col-md-12">
                     <div id="product-tab">
                         <!-- product tab nav -->
                         <ul class="tab-nav">
@@ -335,7 +335,7 @@
                         </div>
                         <!-- /product tab content  -->
                     </div>
-                </div>
+                </div> --}}
                 <!-- /product tab -->
             </div>
             <!-- /row -->
